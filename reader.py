@@ -1,7 +1,7 @@
 from scipy import spatial
 import tensorflow as tf
 
-
+a
 def get_similar_word(query, final_embeddings, word2id):
     query_idx = word2id[query]
     query_vector = final_embeddings[query_idx]

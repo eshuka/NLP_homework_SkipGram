@@ -6,7 +6,7 @@ import collections
 import numpy as np
 import math
 import time
-
+a
 os.environ['CUDA_VISIBLE_DEVICES'] = ''
 #corpus_filenm = "text8.txt"
 corpus_filenm = "morphs_namu_small.txt"
